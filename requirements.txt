@@ -1,0 +1,5 @@
+discord
+aiohttp
+google-generativeai
+deep-translator
+langid
